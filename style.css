@@ -69,6 +69,8 @@ p {
 }
 .my-town-title{
     color: darkcyan;
+    text-align: center;
+    font-size: 40px;
 }
 .my-mum-img {
     width: 400px;
@@ -93,6 +95,9 @@ body{
 .my-family-wrapper{
     display: flex;
 }
-*{
-    margin: 0;
+footer{
+    text-align: center;
+}
+.my-town{
+    text-align: center;
 }
