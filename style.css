@@ -7,7 +7,7 @@ background-color: rgb(235, 221, 161);
 display: flex;
 justify-content: space-between;
 }
-div {
+.header-about-me {
     display: flex;
     flex-direction: row;
     margin-left: 20px;
